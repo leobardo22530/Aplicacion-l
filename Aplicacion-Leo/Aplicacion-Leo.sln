@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacion-Leo", "Aplicacion-Leo.csproj", "{84674CE2-20B0-4DFE-9526-D138AA35B206}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Aplicacion", "..\Aplicacion\Aplicacion.vdproj", "{C36195A1-130C-441D-877E-E22BB3638C5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84674CE2-20B0-4DFE-9526-D138AA35B206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84674CE2-20B0-4DFE-9526-D138AA35B206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84674CE2-20B0-4DFE-9526-D138AA35B206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84674CE2-20B0-4DFE-9526-D138AA35B206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C36195A1-130C-441D-877E-E22BB3638C5F}.Debug|Any CPU.ActiveCfg = Debug
+		{C36195A1-130C-441D-877E-E22BB3638C5F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F7DDD78-CB66-4F72-8F07-2FA1FFAD760A}
+	EndGlobalSection
+EndGlobal
